@@ -51,17 +51,3 @@ See this post : coming soon
 ### Help me to get the world safer by giving some ❤️ to people
 
 </div>
-
----
-
-## Development
-
-Hugo CLI with docker
-
-```
-sudo docker run --rm -v ${PWD}:/src hugomods/hugo hugo <commands>
-```
-
-## Deployment
-
-Coming soon
