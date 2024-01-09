@@ -1,0 +1,46 @@
+name: Germain Olea
+description: High Level Learner and Cybersecurity Apprentice
+email: olea@germain.tech
+#phone:
+address: 51100 Reims, France
+year: 2024
+avatar: https://media.discordapp.net/attachments/1194296038782160936/1194296122789863465/IMG-20231001-WA0057-01.png
+avatarclass: circle
+background: ""
+banner: https://media.discordapp.net/attachments/1194296038782160936/1194296122789863465/IMG-20231001-WA0057-01.png
+favicon: favicons/favicon-16x16.png
+DateForm: January 10, 2024
+#author:
+
+showSubheader: true
+showServices: true
+showRecentWorks: true
+showDownloads: true
+showClients: true
+showFooterContact: true
+showFooterFollowMe: true
+showFooterTextWidget: false
+showFooterFormWidget: false
+
+#sharethis:
+#  property: "123456789012345678901234"
+#  custom: true
+social:
+  - title: linkedin
+    url: https://www.linkedin.com/in/germainol
+    icon: fab fa-linkedin
+    footer: true
+    sharethis: true
+    network: linkedin
+  - title: github
+    url: https://github.com/djuhnix
+    icon: fab fa-github
+    footer: true
+    sharethis: false
+    network: ""
+  - title: email
+    url: mailto:olea@germain.tech
+    icon: fas fa-envelope-square
+    footer: false
+    sharethis: true
+    network: email

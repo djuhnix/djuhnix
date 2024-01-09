@@ -1,0 +1,13 @@
+baseURL: https://germain.tech/
+languageCode: fr
+title: Germain Olea - Showcasing of works
+
+theme: hugo-initio
+menu:
+  main:
+    - name: home
+      url: /
+      weight: 1
+    - name: blog
+      url: /blog/
+      weight: 5
