@@ -15,7 +15,6 @@ I'm a Security Engineer Intern and I'm passionate about making stuff in IT (real
 - 🚀 &nbsp; I’m currently learning Web Pentesting, Forensic Analysis, Incident Response and so much.
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/djuhnix).
 - 👾 &nbsp; Fun fact: Inazuma Eleven scenario is as complicated to understand than quantum computer.
-- 📫 &nbsp; How to reach me: kerbiriouantoine@gmail.com.
 - 📝 &nbsp; Checkout my [Resume]().
 - 💬 &nbsp; Ask me about anything [here](mailto:olea@germain.tech)! I am happy to discuss.
 
