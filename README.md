@@ -5,15 +5,15 @@
 
 ### Glad to see you here!
 
-I'm a Security Engineer Intern and I'm passionate about making stuff in IT (really wide).
+I'm a Security Engineer and I'm passionate about making stuff in IT (really wide).
 
 <img align="right" height="250" width="375" alt="" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/coder.gif" />
 
 ### Talking about Personal Stuffs:
 
 - 🛠 &nbsp; I’m currently working with Bash, Python, PHP <br /> HAProxy, Nginx, Ansible, GitLab CI, CrowdSec.
-- 🚀 &nbsp; I’m currently learning Web Pentesting, Forensic Analysis, Incident Response and so much.
-- 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/djuhnix).
+- 🚀 &nbsp; I’m currently learning Web Pentesting, Forensic Analysis and Incident Response, Kubernetes and Cloud Security.
+- 👨🏻‍💻 &nbsp; Most of my projects are available here on [Github](https://github.com/djuhnix).
 - 👾 &nbsp; Fun fact: Inazuma Eleven scenario is as complicated to understand than quantum computer.
 - 📝 &nbsp; Checkout my [Resume]().
 - 💬 &nbsp; Ask me about anything [here](mailto:olea@germain.tech)! I am happy to discuss.
@@ -26,7 +26,7 @@ I'm a Security Engineer Intern and I'm passionate about making stuff in IT (real
 
 ### Languages and Tools:
 
-See this post : coming soon
+See my blog post : [G'Blog](httpss://blog.germain.tech)
 
 ### Projects and Dev Stuffs:
 
@@ -36,7 +36,7 @@ See this post : coming soon
   	<ul>
   	    <li><b>Browser: </b> Firefox Web Browser</li>
 	    <li><b>Code Editor:</b> Jetbrains Toolbox & al.</li>
-	    <li><b>To Stay Updated:</b> Dev.to, Medium & Linkedin.</li>
+	    <li><b>To Stay Updated:</b> Dev.to, Medium, Linkedin, Hashnode.</li>
 	    <br />
 	</ul>	
 </details>
