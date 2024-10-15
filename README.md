@@ -26,7 +26,7 @@ I'm a Security Engineer and I'm passionate about making stuff in IT (really wide
 
 ### Languages and Tools:
 
-See my blog post : [G'Blog](httpss://blog.germain.tech)
+See my blog post : [G'Blog](https://blog.germain.tech)
 
 ### Projects and Dev Stuffs:
 
